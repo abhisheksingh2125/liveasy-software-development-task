@@ -1,8 +1,9 @@
 𝐋𝐨𝐚𝐝 & 𝐁𝐨𝐨𝐤𝐢𝐧𝐠 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦 🚛📦
-📌 Overview
-This is a backend system built using Spring Boot and PostgreSQL to efficiently manage loads and bookings. It provides REST APIs with CRUD operations, validation, logging, and error handling to ensure robustness and scalability.
 
-🚀 Features
+📌 Overview : This is a backend system built using Spring Boot and PostgreSQL to efficiently manage loads and bookings. It provides REST APIs with CRUD operations, validation, logging, and error handling to ensure robustness and scalability.
+
+🚀 Features :
+
 ✅ Create, update, delete, and retrieve Loads and Bookings
 ✅ Status updates based on booking actions (e.g., auto-change from POSTED → BOOKED)
 ✅ Secure and efficient API design with input validation and error handling
@@ -10,6 +11,7 @@ This is a backend system built using Spring Boot and PostgreSQL to efficiently m
 ✅ PostgreSQL integration for data persistence
 
 🛠️ Tech Stack :
+
 ‣ Spring Boot (REST APIs)
 ‣ PostgreSQL (Database)
 ‣ Spring Data JPA (ORM)
